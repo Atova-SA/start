@@ -107,8 +107,8 @@ DEMO 03
 </main>
 
 <footer class="center_justify">
-  <a href="https://github.com/atova_agency" target="_blank" title="github">![github](https://atova-agency.github.io/img/){.link .glow}
-  </a>  [Design Develop FAST](https://atova-agency.github.io)
+  <a href="https://github.com/atova-agency" target="_blank" title="github">![github](https://atova-agency.github.io/img/a_atovy-ico.svg){.link .glow}
+  [Design Develop FAST]</a>  
 </footer>
 
 <footer>
