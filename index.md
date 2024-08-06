@@ -4,7 +4,7 @@ subtitle: ""
 header-includes: |
     <meta property="og:image" content="./img/writing.jpg" />
     <meta name="description" content="Secure Code Practician: Rust programming with webassembly" />
-    <link rel="icon" type="image/x-icon" href="./img/a_atovy-ico.svg">
+    <link rel="icon" type="image/x-icon" href="./a_atovy-ico.svg">
 ---
       
 
