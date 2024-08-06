@@ -1,6 +1,6 @@
 ---
-title: Atova
-subtitle: "Software Agency"
+title: "Atova"
+subtitle: ""
 header-includes: |
     <meta property="og:image" content="./img/writing.jpg" />
     <meta name="description" content="Secure Code Practician: Rust programming with webassembly" />
@@ -9,8 +9,12 @@ header-includes: |
       
 
 <style>
+.title {display:none;}
 #title-block-header {
-    background-image: url("./img/phiber.jpg");
+    background-image: url("./img/Logo_atovaSA.svg");
+background-size: 100%;
+  width: 1200px;
+  height: 550px;
 }
 :root{--color-bg: linear-gradient(45deg, rgba(220, 216, 218, 0.8), rgba(199, 213, 221, 0.51));}
 </style>
@@ -24,28 +28,52 @@ header-includes: |
 
 <section id="section-1">
 <header>
-## Developer's Notes
+## Services
 
-Rust programming, Tech Tips & Tools
+Vous désirez
+resoudre un problème, saisir une opportunité ou relevé un défi
+qui necessite une solution numerique? 
+Vous souhaitez résoudre un problème, 
+saisir une opportunité 
+ou relever un défi qui nécessite une solution numérique ?
+
+Atova vous accompagne. 
 </header>
 <aside>
-### Rust Input / Output
+### Professionelle
 
-Rust [Input / Output](./dev_notes/input_output.html)
+Chaque collaborateur est expert dans son domaine (Frontend, Serveurs, Design)
+et un généraliste polyvalent au besoin.
+Nous évitons les employés « fullstack » qui sont touche-à-tout et maîtres de rien.
 
-<small>*with small content</small>
 </aside>
 <aside>
-### Rust Iterators and Combinators
+### Rapide 
 
-Rust [Iterators and Combinators](./dev_notes/iterators_and_combinators.html)
+L'apprentissage et la formation sont fortement encouragés chez Atova,
+mais jamais pendant les heures facturables d'un client.
 
-<sup>working with collections</sup>
+Aussi, nous ne choisisons que des Projets que nous maitrison.
+Avec une predilection pour les Projets moins de trois mois.
+Les projets plus ambitieux sont en génerale divisible en tranche plus 
+mesurable, permetant une approche iterative et incrementielle.
+
+Aussi, nous choisissons uniquement les Projets que nous maîtrisons.
+Avec une prédilection pour les projets de moins de trois mois.
+Les projets plus ambitieux sont généralement divisibles en tranches plus 
+gérables et  mesurables, permettant une approche itérative et incrémentale.
+
+Pour cela nous avons développé la méthode FAST: Form And Substance Together.
+
 </aside>
 <aside>
-### Serde & Reqwest
+### Fiable
 
-Rust [Serde / Reqwest](./)
+Nous utilisons des outils et des solutions sûrs et validés par l'industrie
+
+- Développement Rust (backend)
+- Frontend dynamique avec Webassembly
+- Intégration flexible avec les technologies existantes
 </aside>
 </section><!--^ section-1 -->
 
@@ -53,37 +81,33 @@ Rust [Serde / Reqwest](./)
 
 <section  id="section-2">
 <header>
-## Developer's Tools
+## Demo
 
-Git, hx (helix editor) & Docker
+Exemple de projet récemment réalisé.
+
 </header>
 <aside>
-### Git
+### DEMO 01
 
-Card content
+DEMO 01
 </aside>
 <aside>
-### hx
+### DEMO 02
 
-Card content
+DEMO 02
 </aside>
 <aside>
-### Docker
+### DEMO 03
 
-Card content
+DEMO 03
 </aside>
 
 </section><!--^ section-2 -->
 
----
-
-<header>
-<p><a href="https://lerina.github.io"><i>&larr; OPTIMAL</i></a><a href="nobundle.github.io"><b>Webassembly &rarr;</b></a></p>
-</header>
 </main>
 
 <footer class="center_justify">
-  <a href="https://github.com/atova_agency" target="_blank" title="github">![github](https://atova-agency.github.io/img/github32px.png){.link .glow}
+  <a href="https://github.com/atova_agency" target="_blank" title="github">![github](https://atova-agency.github.io/img/){.link .glow}
   </a>  [Design Develop FAST](https://atova-agency.github.io)
 </footer>
 
@@ -92,7 +116,7 @@ Card content
 ---
 
 <p>
-<small><a href="https://lerina.github.io">Contact info</a></small>
+<small><a href="https://atova-agency.github.io/start/contact.html">Contact info</a></small>
 </p>
 </footer>
 
