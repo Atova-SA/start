@@ -267,7 +267,7 @@ nav ul li ul li a {
 
 #TOC:before {
   padding-top: 0.5rem;
-  content: url("https://atova-agency.github.io/a_atovy-ico.svg");
+  content: url("../img/a_atovy-ico.svg");
   margin-left: 3rem; /*gap between page left border and logo */
 }
 
