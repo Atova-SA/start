@@ -20,8 +20,8 @@ background-size: 100%;
 </style>
 
 <header>
-<h1>Adopting <i>Rust</i></h1>
-<p>What to do after the official <em>Rust Programming Language Book</em></p>
+<h1>La solution la mieux adaptée à votre projet</h1>
+<h2>est celle qui n'oblige pas votre projet à s'adapter à votre solution</h2>
 </header>
 
 <main>
@@ -30,38 +30,33 @@ background-size: 100%;
 <header>
 ## Services
 
-Vous désirez
-resoudre un problème, saisir une opportunité ou relevé un défi
-qui necessite une solution numerique? 
-Vous souhaitez résoudre un problème, 
-saisir une opportunité 
-ou relever un défi qui nécessite une solution numérique ?
+Vous souhaitez résoudre un problème,  saisir une opportunité ou relever un défi qui nécessite une solution numérique ?
 
-Atova vous accompagne. 
+<em><b>Atova</b> vous accompagne</em> et vous propose un service: 
 </header>
 <aside>
 ### Professionelle
 
-Chaque collaborateur est expert dans son domaine (Frontend, Serveurs, Design)
+Chaque collaborateur est expert dans son domaine
 et un généraliste polyvalent au besoin.
-Nous évitons les employés « fullstack » qui sont touche-à-tout et maîtres de rien.
+
+- Frontend 
+- Serveurs 
+- Design
+- Test
+
+Nous évitons les employés « fullstack » touche-à-tout et maîtres de rien.
 
 </aside>
 <aside>
 ### Rapide 
 
-L'apprentissage et la formation sont fortement encouragés chez Atova,
+L'apprentissage et la formation font partie du quotidien chez <em><b>Atova</b></em> ;
 mais jamais pendant les heures facturables d'un client.
 
-Aussi, nous ne choisisons que des Projets que nous maitrison.
-Avec une predilection pour les Projets moins de trois mois.
-Les projets plus ambitieux sont en génerale divisible en tranche plus 
-mesurable, permetant une approche iterative et incrementielle.
-
-Aussi, nous choisissons uniquement les Projets que nous maîtrisons.
-Avec une prédilection pour les projets de moins de trois mois.
-Les projets plus ambitieux sont généralement divisibles en tranches plus 
-gérables et  mesurables, permettant une approche itérative et incrémentale.
+Nous choisissons de préférence des projets d'une durée inférieure à trois mois.
+Cependant, les projets plus ambitieux sont divisés en modules plus 
+gérable et mesurable, permettant une approche itérative et progressive.
 
 Pour cela nous avons développé la méthode FAST: Form And Substance Together.
 
@@ -89,17 +84,17 @@ Exemple de projet récemment réalisé.
 <aside>
 ### DEMO 01
 
-DEMO 01
+MTC
 </aside>
 <aside>
 ### DEMO 02
 
-DEMO 02
+LE PLOMBIER
 </aside>
 <aside>
 ### DEMO 03
 
-DEMO 03
+MULTISERVICE
 </aside>
 
 </section><!--^ section-2 -->
@@ -107,16 +102,10 @@ DEMO 03
 </main>
 
 <footer class="center_justify">
-  <a href="https://github.com/atova-agency" target="_blank" title="github">![github](https://atova-agency.github.io/img/a_atovy-ico.svg){.link .glow}
-  [Design Develop FAST]</a>  
+<section>
+<a href="https://github.com/atova-agency" target="_blank" title="github">![github](./img/github32px.png){.link .glow}</a>  
+ &nbsp;&nbsp;<a href="https://atova-agency.github.io/start/contact.html">Contact info</a>
+</section>
 </footer>
 
-<footer>
-
----
-
-<p>
-<small><a href="https://atova-agency.github.io/start/contact.html">Contact info</a></small>
-</p>
-</footer>
 
