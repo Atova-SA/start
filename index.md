@@ -41,11 +41,11 @@ Chaque collaborateur est expert dans son domaine
 et un généraliste polyvalent au besoin.
 
 - Frontend 
-- Serveurs 
+- Programmation / Serveurs 
 - Design
 - Test
 
-Nous évitons les employés « fullstack » touche-à-tout et maîtres de rien.
+<!-- Nous évitons les employés « fullstack » touche-à-tout et maîtres de rien. -->
 
 </aside>
 <aside>
