@@ -37,13 +37,8 @@ Vous souhaitez résoudre un problème,  saisir une opportunité ou relever un d�
 <aside>
 ### Professionelle
 
-Chaque collaborateur est expert dans son domaine
-et un généraliste polyvalent au besoin.
-
-- Frontend 
-- Programmation / Serveurs 
-- Design
-- Test
+- Chaque collaborateur est expert dans son domaine et un généraliste polyvalent au besoin.
+: Frontend<br/>Programmation / Serveurs<br/>Design<br/>Test
 
 <!-- Nous évitons les employés « fullstack » touche-à-tout et maîtres de rien. -->
 
@@ -51,24 +46,21 @@ et un généraliste polyvalent au besoin.
 <aside>
 ### Rapide 
 
-L'apprentissage et la formation font partie du quotidien chez <em><b>Atova</b></em> ;
+- Nos projets sont divisés en modules plus gérable et mesurable, permettant une approche itérative et progressive.
+: Nous choisissons de préférence des projets d'une durée inférieure à trois mois.
+
+<!--
+- Pour cela nous avons développé la méthode FAST: Form And Substance Together.
+: L'apprentissage et la formation font partie du quotidien chez <em><b>Atova</b></em> ;
 mais jamais pendant les heures facturables d'un client.
-
-Nous choisissons de préférence des projets d'une durée inférieure à trois mois.
-Cependant, les projets plus ambitieux sont divisés en modules plus 
-gérable et mesurable, permettant une approche itérative et progressive.
-
-Pour cela nous avons développé la méthode FAST: Form And Substance Together.
+-->
 
 </aside>
 <aside>
 ### Fiable
 
-Nous utilisons des outils et des solutions sûrs et validés par l'industrie
-
-- Développement Rust (backend)
-- Frontend dynamique avec Webassembly
-- Intégration flexible avec les technologies existantes
+- Nous utilisons des outils et des solutions sûrs et validés par l'industrie
+: - Développement Rust (backend)<br/>- Frontend dynamique avec Webassembly<br/>- Intégration flexible avec les technologies existantes
 </aside>
 </section><!--^ section-1 -->
 
